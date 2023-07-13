@@ -1,17 +1,20 @@
 [
   {
     "id": 1,
-    "name": "Basic",
+    "name": "Basic membership",
+    "price": 50,
     "features": ["Equipment", "Locker room"]
   },
   {
     "id": 2,
-    "name": "Premium",
+    "name": "Premium membership",
+    "price": 80,
     "features": ["Equipment", "Locker room", "Group classes"]
   },
   {
     "id": 3,
-    "name": "VIP",
+    "name": "VIP membership",
+    "price": 120,
     "features": ["Equipment", "Locker room", "Group classes", "Trainer"]
   }
 ]

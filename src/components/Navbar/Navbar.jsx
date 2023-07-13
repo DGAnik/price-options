@@ -33,9 +33,9 @@ const Navbar = () => {
 
   const [open, setOpen] = useState(false);
   return (
-    <nav>
+    <nav className="mt-5 ml-5">
       <div onClick={() => setOpen(!open)} className="md:hidden">
-        <span>
+        <span className="">
           {open === true ? (
             <BarsArrowDownIcon className="h-6 w-6 text-purple-600"></BarsArrowDownIcon>
           ) : (
