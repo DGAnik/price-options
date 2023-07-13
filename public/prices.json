@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "features": ["Equipment", "Locker room"]
+  },
+  {
+    "id": 2,
+    "name": "Premium",
+    "features": ["Equipment", "Locker room", "Group classes"]
+  },
+  {
+    "id": 3,
+    "name": "VIP",
+    "features": ["Equipment", "Locker room", "Group classes", "Trainer"]
+  }
+]
